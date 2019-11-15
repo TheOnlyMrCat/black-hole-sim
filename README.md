@@ -29,7 +29,7 @@ but modified a bit to get the force for a specific body, it looks like this:
 
 ![Modified Law, 1](http://www.sciweavers.org/tex2img.php?eq=F_1%3DG%5Cfrac%7Bm_1m_2%7D%7Br%5E2%7D%5Cdiv%5Cfrac%7Bm_1%7D%7Bm_1%2Bm_2%7D&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
 
-![Modified law, 2](http://www.sciweavers.org/tex2img.php?eq=F_1%3DG%5Cfrac%7B%28m_1%29%5E2%5Ctimes%20m_2%2Bm_1%5Ctimes%28m_2%29%5E2%7D%7Bm_1%5Ctimes%20r%5E2%7D&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
+![Modified law, 2](http://www.sciweavers.org/tex2img.php?eq=F_1%3DG%5Cfrac%7B%28m_1%29%5E2%20%5Ctimes%20m_2%20%2B%20m_1%20%5Ctimes%20%28m_2%29%5E2%7D%7Bm_1%20%5Ctimes%20r%5E2%7D&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
 
 This force is used, along with the direction of the black hole from the body, to modify the body's internal
 direction vector, which changes the position each tick.
