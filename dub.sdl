@@ -1,0 +1,7 @@
+name "black_hole_sim"
+description "A physics simulator concerning black holes"
+authors "Maxwell Guppy"
+copyright "Copyright © 2019, Maxwell Guppy"
+license "proprietary"
+dependency "wheel" version="~>0.5.3"
+versions "BindSDL_TTF"
